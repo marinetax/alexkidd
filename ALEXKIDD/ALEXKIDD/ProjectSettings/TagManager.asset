@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BACKGROUND
+  - StarBox
+  - Money
+  - Pedra
+  - Coins
+  - suelo
+  - enemig
+  - aigua
+  - Aigua
+  - blocaigua
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PLAYER
+    uniqueID: 4055125793
+    locked: 0
+  - name: Coins
+    uniqueID: 887391255
+    locked: 0
+  - name: StarBox
+    uniqueID: 1659602701
+    locked: 0
+  - name: BLACKGROUND
+    uniqueID: 3152885729
+    locked: 0
+  - name: Pedra
+    uniqueID: 741959479
+    locked: 0
+  - name: suelo
+    uniqueID: 4137457245
+    locked: 0
+  - name: enemig
+    uniqueID: 1930732411
+    locked: 0
+  - name: Aigua
+    uniqueID: 2775496467
+    locked: 0
+  - name: blocaigua
+    uniqueID: 798017571
+    locked: 0
